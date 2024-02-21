@@ -7,6 +7,6 @@
 - This application uses AWS Amplify, Amazon API Gateway, AWS Lambda, Amazon DynamoDB, and AWS Identity and Access Management (IAM).
 ## Tech Stack
 
-**Scripting Language:** Html, Css, Javascript
+**Scripting Language:** HTML, Css, Javascript
 
 **Cloud Service:** AWS Amplify, Amazon API Gateway, AWS Lambda, Amazon DynamoDB, and AWS Identity and Access Management (IAM)
